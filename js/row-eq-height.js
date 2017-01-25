@@ -13,6 +13,7 @@ function equalHeight(){
 		});
 	}
 }
+
 //Resize
 jQuery(document).ready(equalHeight);
 jQuery(window).resize(function(){
