@@ -1,0 +1,18 @@
+[class*="col-"]{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+.bs-callout-d{
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 3px solid #d9534f;
+}
+
+.bs-callout-w{
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 3px solid #f0ad4e;
+}
