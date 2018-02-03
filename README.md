@@ -4,4 +4,6 @@ This code provides a JavaScript multi browser solution for the _boostrap3_ class
 _.row-eq-height_. Compatible with Google Chrome, FireFox, Opera, Safari and
 Internet Explorer(_IE8_). No FlexBox.
 
-Demo in https://silvestrevivo.github.io/row-eq-height-jquery/
+![Alt text](https://playground.uonsite.nl/javascript/row-eq-height-jquery/img/row-eq-height-jquery.jpg ".row-eq-height with jQuery")
+
+Demo in https://playground.uonsite.nl/javascript/row-eq-height-jquery/index.html
